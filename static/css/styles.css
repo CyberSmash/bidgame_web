@@ -1,0 +1,25 @@
+body {
+    background-color: #131418;
+}
+
+table.table-bordered {
+    border: 1px solid #3daee9;
+   color: #C7BEBE;
+}
+
+table.table-bordered > thead > tr > th {
+    border: 1px solid #3daee9;
+}
+
+table.table-bordered > tbody > tr > td {
+    border: 1px solid #3daee9;
+}
+
+table.table-bordered > tbody > tr > td.username {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+h1 {
+    color: #1FC49A;
+}
